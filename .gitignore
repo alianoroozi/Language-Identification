@@ -7,6 +7,7 @@
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+.gitignore
 
 # IPython
 profile_default/
